@@ -1,6 +1,7 @@
-h1 h2 h3{
-    color: #1ecbe1;
+h1, h2, h3 {
+    color: #1ecbe1; /* Sets the color of h1, h2, and h3 to a shade of blue */
 }
+
 body {
-    background-color: #E1341E;
+    background-color: #E1341E; /* Sets the background color of the body to a shade of red */
 }
